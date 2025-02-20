@@ -31,6 +31,18 @@ pip install pandas numpy scikit-learn xgboost scikit-optimize
 
 ## Easy Usage
 
+### Data Form
+
+**The target is in the second column!**
+
+| name       | Category | ... | Feature_n |
+|------------|------------|------------|----------|
+| A   | 0     | ...          | 20     |
+| B | 1      | ...          | 30      |
+| ...  | ...        | ...        |    ...   |
+| C   | 1       | ...          | 53      |
+
+
 ### Command-Line Arguments
 
 The script can be run from the command line with the following arguments:
