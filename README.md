@@ -71,4 +71,5 @@ python r2b.py data.csv 3 6 4 --bayes_opt
 ## How to Cite
 
 If you use this code in your research or paper, please cite it as follows:
-Yang, Jiahuan, Junxiang Huang, and Lai Jiang. "Reg2Boost: A Machine Learning Optimization Approach for Low-Dimensional Breast Cancer Classification." 2025 8th International Symposium on Big Data and Applied Statistics (ISBDAS). IEEE, 2025.
+
+**Yang, Jiahuan, Junxiang Huang, and Lai Jiang. "Reg2Boost: A Machine Learning Optimization Approach for Low-Dimensional Breast Cancer Classification." 2025 8th International Symposium on Big Data and Applied Statistics (ISBDAS). IEEE, 2025.**
